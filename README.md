@@ -1,4 +1,4 @@
-# EfPerformance
+# Entity Framework Performance
 EF Performance
 Check EF perfornace for  Bulk Insertion of records in SQL Server database.
 
