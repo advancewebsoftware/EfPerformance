@@ -22,6 +22,6 @@ Add inside loop, SaveChanges outside loop, AutoDetectionChangesEnabled = false
 
 Temporary list inside loop, AddRange at once outside loop, SaveChanges outside loop
 
-**Case 6:** **Recommended If you are trying to insert large ammount of data** 
+**Case 6:** **Recommended If you are trying to insert large amount of data** 
 
 SqlBulkCopy
